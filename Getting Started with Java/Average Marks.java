@@ -16,7 +16,6 @@ public class Solution {
         
         String str = s.next();
         char ch = str.charAt(0);
-        System.out.println(ch);
         m1 = s.nextInt();
         m2 = s.nextInt();
         m3 = s.nextInt();
